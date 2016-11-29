@@ -1,0 +1,14 @@
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\bin\WebApplication19.dll
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\bin\Nancy.dll
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\bin\Nancy.Hosting.Aspnet.dll
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\bin\Nancy.ViewEngines.Razor.dll
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\bin\Nancy.xml
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\bin\Nancy.Hosting.Aspnet.xml
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\bin\Nancy.ViewEngines.Razor.xml
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+d:\documents\visual studio 2013\Projects\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
